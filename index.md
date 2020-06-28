@@ -1,3 +1,3 @@
-# Welcome to my blog
+<!DOCTYPE html>
 
-I'm glad you are here. I plan to talk about ...
+<p> this is just a test. </p>
